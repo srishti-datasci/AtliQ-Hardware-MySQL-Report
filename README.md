@@ -2,7 +2,7 @@
 
 - **Project objective:**
 
-    **1.** Created a _[AtliQ Hardware Analytics Report](AtliQ MySQL Report.pdf)_.
+    **1.** Created a _[AtliQ Hardware Analytics Report](AtliQ MySQL Report.pdf)
 
 - **Tables Used:**
    - [x] dim_customer
