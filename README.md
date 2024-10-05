@@ -1,4 +1,4 @@
-## MYSQL Analytics Report for AtliQ Hardware :
+## Ad-Hoc Insights(Consumer Goods Domain):
 
 - **Project objective:**
 
